@@ -1,0 +1,16 @@
+.ui-panel {
+  position: fixed;
+  top: 12px;
+
+  /* move to the right */
+  right: 12px;
+  left: auto;
+
+  padding: 10px 12px;
+  background: rgba(0, 0, 0, 0.55);
+  color: white;
+  border-radius: 10px;
+  backdrop-filter: blur(6px);
+  user-select: none;
+  font-size: 14px;
+}
